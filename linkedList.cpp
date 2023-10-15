@@ -71,7 +71,7 @@ int main()
     }
     free(current1);
 
-    // Step-7:Displaying the linked
+    // Step-7:Displaying the linked list.
     node *current2 = head;
     while (current2 != NULL)
     {
